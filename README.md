@@ -5,7 +5,7 @@ I turn technical challenges into innovative solutions that combine performance, 
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,21 +29,21 @@ I turn technical challenges into innovative solutions that combine performance, 
 
 ---
 
-## 🏆 Experience & Hackathons
+##  Experience & Hackathons
 
 Driven by a **competitive mindset** and strong teamwork abilities, I perform particularly well under pressure.  
 I notably **won an AI Hackathon**, where I built a complete solution in under 48 hours, demonstrating my skills in software architecture, optimization, and agile collaboration.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugordDev&show_icons=true&theme=radical&hide_border=true&hide_title=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugordDev&layout=compact&theme=radical&hide_border=true&hide_title=false)
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - **LinkedIn**: [linkedin.com/in/hugord-dita](https://www.linkedin.com/in/hugord-dita)  
 - **Email**: [juniordita78@gmail.com](mailto:juniordita78@gmail.com)
